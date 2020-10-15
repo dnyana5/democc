@@ -1,5 +1,5 @@
 #!/bin/bash -x
-#just branching
+
 #Constants
 #declaration & initialization
 EMPLOYEE_RATE_PER_HOUR=100
@@ -34,4 +34,5 @@ done
 echo "total working hours - " $totalWage
 echo "total days worked - " $totalWorkingDays
 echo "total hours done - " $total_working_hours
- #end
+
+#end
